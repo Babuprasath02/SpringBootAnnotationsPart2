@@ -1,0 +1,13 @@
+D:\Babu\annotations\src\main\java\com\kgisl\annotations\scope\PrototypeBean.java
+D:\Babu\annotations\src\main\java\com\kgisl\annotations\scope\SingletonBean.java
+D:\Babu\annotations\src\main\java\com\kgisl\annotations\service\BeanService2.java
+D:\Babu\annotations\src\main\java\com\kgisl\annotations\lazy\LazyLoader.java
+D:\Babu\annotations\src\main\java\com\kgisl\annotations\Config\AppConfig.java
+D:\Babu\annotations\src\main\java\com\kgisl\annotations\controller\BeanController.java
+D:\Babu\annotations\src\main\java\com\kgisl\annotations\repository\BeanInterface.java
+D:\Babu\annotations\src\main\java\com\kgisl\annotations\service\BeanService.java
+D:\Babu\annotations\src\main\java\com\kgisl\annotations\controller\MyController.java
+D:\Babu\annotations\src\main\java\com\kgisl\annotations\lazy\EagerLoader.java
+D:\Babu\annotations\src\main\java\com\kgisl\annotations\repository\MyRepository.java
+D:\Babu\annotations\src\main\java\com\kgisl\annotations\service\MyService.java
+D:\Babu\annotations\src\main\java\com\kgisl\annotations\AnnotationsApplication.java
